@@ -9,6 +9,6 @@ class Solution:
         return index        
 # Complexity analysis
 
-# Time complextiy : O(n). Assume that n is the length of array. Each of i and index traverses at most nn steps.
+# Time complextiy : O(n). Assume that n is the length of array. Each of i and index traverses at most n steps.
 
 # Space complexity : O(1)
