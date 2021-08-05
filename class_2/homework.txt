@@ -1,0 +1,14 @@
+1.Learn basic OOP.
+2.What is immutable ?
+3.Generate a mathematical proof that the (final) algorithm that was shown using a mathematical equation will work.
+Leetcode problemlist:
+1.https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+2.https://leetcode.com/problems/remove-element/
+3.https://leetcode.com/problems/search-insert-position/
+4.https://leetcode.com/problems/maximum-subarray/
+5.https://leetcode.com/problems/plus-one/
+6.https://leetcode.com/problems/merge-sorted-array/
+7.https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+8.https://leetcode.com/problems/pascals-triangle/
+9.https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+10.https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
