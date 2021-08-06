@@ -14,7 +14,8 @@ class Solution:
             else:
                 nums1[total]=nums2[end2]
                 end2-=1
-            
+
+    
 # Complexity analysis
 
 # Time complextiy : O(n).
